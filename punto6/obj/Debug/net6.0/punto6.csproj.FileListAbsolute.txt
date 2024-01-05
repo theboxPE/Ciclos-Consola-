@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\bin\Debug\net6.0\punto6.exe
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\bin\Debug\net6.0\punto6.deps.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\bin\Debug\net6.0\punto6.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\bin\Debug\net6.0\punto6.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\bin\Debug\net6.0\punto6.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\refint\punto6.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\punto6.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto6\obj\Debug\net6.0\ref\punto6.dll

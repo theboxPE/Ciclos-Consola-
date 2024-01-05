@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\bin\Debug\net6.0\punto7.exe
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\bin\Debug\net6.0\punto7.deps.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\bin\Debug\net6.0\punto7.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\bin\Debug\net6.0\punto7.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\bin\Debug\net6.0\punto7.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\refint\punto7.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\punto7.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\Tarea 6\punto7\obj\Debug\net6.0\ref\punto7.dll
